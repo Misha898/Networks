@@ -1,0 +1,19 @@
+finite number of ethernet addresses ~281 trillion
+IP addr - 32 bits
+receiveing exactly the same sequence it was sent - can this rule be violated by IP-protocol?
+list of DNS servers, how to find
+quantity of cycles read-write on flash memory
+is it mandatory to create server-client communication
+
+"On the server side, the application creates the socket with socket(), and then
+calls bind() to specify which local address and port to use"
+
+if I have wlan0 and eth0 simultaniusly, what's so?
+bind of client's socket when UDP, but not when TCP
+
+is any IP with 127 in the head local? 
+
+what is socket? i mean it can queue incoming connections, 
+why should i create new socket for send; full-duplex, isn't it?
+
+why is there field addr in accept() function
